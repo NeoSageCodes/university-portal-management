@@ -39,7 +39,7 @@ GitHub: [https://github.com/NeoSageCodes](https://github.com/NeoSageCodes)
 │   └── department.js
 ├── .env
 ├── .gitignore
-└── app.js
+└── server.js
 ```
 
 ## Getting Started
